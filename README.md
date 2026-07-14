@@ -1,2 +1,9 @@
-# 6a5677a610288bb31b438e47
-Frontend repository for FoodRoute
+# FoodRoute - Frontend
+
+## GitHub Pages
+
+**URL:** https://skill-in-projects.github.io/6a5677a610288bb31b438e47/
+
+## Stack
+
+React + Vite. Run `npm install` then `npm run dev` or `npm start`. Use `npm run lint` and `npm run format` for ESLint and Prettier.
